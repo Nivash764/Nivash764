@@ -9,7 +9,9 @@ I’m a Full Stack Engineer focusing on building and maintaining efficient and r
 **Frontend**: JSP, JDBC, HTML, CSS, Angular
 
 **Backend**: Java, Spring MVC, Spring Security using JWT, Spring Boot, Spring Data JPA , Hibernate,
+
 **Database**: MySQL
+
 **Tools**: Maven, Postman, SonarQube, RabbitMQ
 
 ## Interests 🤝
