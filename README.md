@@ -6,19 +6,19 @@ I’m a Full Stack Engineer focusing on building and maintaining efficient and r
 
 ## Technologies & Skills 🛠️
 
--Frontend**: JSP, JDBC, HTML, CSS, Angular
+**Frontend**: JSP, JDBC, HTML, CSS, Angular
 
--Backend**: Java, Spring MVC, Spring Security using JWT, Spring Boot, Spring Data JPA , Hibernate,
+**Backend**: Java, Spring MVC, Spring Security using JWT, Spring Boot, Spring Data JPA , Hibernate,
 
--Database**: MySQL
+**Database**: MySQL
 
--Tools**: Maven, Postman, SonarQube, RabbitMQ
+**Tools**: Maven, Postman, SonarQube, RabbitMQ
 
 ## Interests 🤝
 
 - Excited to work on creative projects.
 - Passionate about learning and exploring new technologies.
--Open to engaging in technical discussions and knowledge sharing.
+- Open to engaging in technical discussions and knowledge sharing.
 - Keen to stay updated with the latest advancements and best practices in the field.
 
 ## Contact 📫
