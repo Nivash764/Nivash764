@@ -2,19 +2,20 @@
 
 ## About Me 🌟
 
-I'm a Full Stack Developer interested in collabrating on exciting projects . I'm currently exploring microservices to enhance my expertise. Always eager to tackle new challenges and contribute to dynamic teams.
+I’m a Full Stack Engineer focusing on building and maintaining efficient and reliable solutions. I have experience with microservices architecture and am enhancing my skills in the React framework. I enjoy learning and contributing to collaborative team efforts to deliver meaningful results.
 
 ## Technologies & Skills 🛠️
 
-**Frontend**: HTML, CSS, Angular
-**Backend**: Java, Spring MVC, Spring Security using JWT, Spring Boot, Spring Data JPA , Hibernate, Microservices
+**Frontend**: JSP, JDBC, HTML, CSS, Angular
+**Backend**: Java, Spring MVC, Spring Security using JWT, Spring Boot, Spring Data JPA , Hibernate,
 **Database**: MySQL
-**Tools**: Maven, Postman, SonarQube, Redis, RabbitMQ, Splunk
+**Tools**: Maven, Postman, SonarQube, RabbitMQ
 
 ## Interests 🤝
 
 - Excited to work on creative projects.
-- Open to freelance roles
+- Passionate about learning and exploring new technologies.
+-Open to engaging in technical discussions and knowledge sharing.
 - Keen to stay updated with the latest advancements and best practices in the field.
 
 ## Contact 📫
