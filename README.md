@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Srinivaash
+# Hi there! 👋 I'm Srinivaash A S
 
 ## About Me 🌟
 
